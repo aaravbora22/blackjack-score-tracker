@@ -35,3 +35,7 @@ Tracking scores by hand during a long blackjack session is tedious and error-pro
 ## Project Structure
 <img width="987" height="407" alt="image" src="https://github.com/user-attachments/assets/6896dbeb-c5d8-40ee-b6e8-6c03a6fca65f" />
 
+
+## Status
+In development. See the commit history for progress against the build plan.
+
