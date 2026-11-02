@@ -35,6 +35,7 @@ Tracking scores by hand during a long blackjack session is tedious and error-pro
 
 ## Planning Documents
 
+- [Design Doc](https://docs.google.com/document/d/1MOBPCkWn5Ah0N0Gck78ruwtPZ5Pc8ga9BSoAj6tw7t8/edit): problem statement, tech stack, build plan, and system diagram
 - [Eisenhower Matrix](docs/Eisenhower_Matrix_Aarav_Bora_CS_193.pdf): feature prioritization and MVP scope
 - [System Diagram](docs/Aarav_Bora_CS_193_System_Diagram.pdf): components and how they interact
 
