@@ -35,9 +35,8 @@ Tracking scores by hand during a long blackjack session is tedious and error-pro
 
 ## Planning Documents
 
-- [Eisenhower Matrix](docs/eisenhower-matrix.pdf): feature prioritization and MVP scope
-- [System Diagram](docs/system-diagram.png): components and how they interact
-- Design doc: [Google Doc link]
+- [Eisenhower Matrix](docs/Eisenhower_Matrix_Aarav_Bora_CS_193.pdf): feature prioritization and MVP scope
+- [System Diagram](docs/Aarav_Bora_CS_193_System_Diagram.pdf): components and how they interact
 
 ## Project Structure
 
