@@ -18,10 +18,11 @@ Tracking scores by hand during a long blackjack session is tedious and error-pro
 ## Future Plans
 
 - Input validation for unknown player names and invalid results
+- Unit tests for the scoring rules, including blackjack payouts and pushes
 - Undo the last recorded hand
 - Strategy helper that recommends a basic strategy move from the player's hand and the dealer's upcard
 - Session statistics, such as how often each player followed the strategy chart
-- Poker score tracking as a separate scoring module
+- Design doc and README polish
 
 ## Tech Stack
 
@@ -32,10 +33,16 @@ Tracking scores by hand during a long blackjack session is tedious and error-pro
 - **Data storage:** CSV save file with the columns `hand_number,player,result,points`
 - **Data sources:** None. All data is entered in the terminal.
 
+## Planning Documents
+
+- [Eisenhower Matrix](docs/eisenhower-matrix.pdf): feature prioritization and MVP scope
+- [System Diagram](docs/system-diagram.png): components and how they interact
+- Design doc: [Google Doc link]
+
 ## Project Structure
+
 <img width="987" height="407" alt="image" src="https://github.com/user-attachments/assets/6896dbeb-c5d8-40ee-b6e8-6c03a6fca65f" />
 
-
 ## Status
-In development. See the commit history for progress against the build plan.
 
+In development. See the commit history for progress against the build plan.
